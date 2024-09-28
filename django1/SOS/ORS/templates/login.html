@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% include "header.html" %}
+<form method="post">
+    {% csrf_token %}
+    <div align="center">
+    <h1>LOG IN </h1>
+        <table>
+        <tr>
+            <th>Login Id:</th>
+            <td><input type="text" name="login_id"></td>
+        </tr>
+        <tr>
+            <th>Password:</th>
+            <td><input type="text" name="password"></td>
+
+        </tr>
+        <tr>
+            <th></th>
+            <td><input type="submit" value="log in">
+            <button><a href="/ORS/signup">Sign Up</a></button></td>
+        </tr>
+
+    </table>
+        <h2 style="color:red">{{ message }}<h2>
+    </div>
+</body>
+</html>
