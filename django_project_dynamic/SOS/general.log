@@ -1,0 +1,34 @@
+django.utils.autoreload  INFO  2024-11-17 14:56:40,359  autoreload 8840  12960  Watching for file changes with StatReloader
+django.request  WARNING  2024-11-17 14:56:42,520  log 8840  13172  Not Found: /
+django.request  WARNING  2024-11-17 14:57:06,282  log 8840  13172  Not Found: /ORS/marksheet/
+django.utils.autoreload  INFO  2024-11-17 14:59:06,480  autoreload 8840  12960  D:\RAYS\Project\django_project_dynamic\SOS\ORS\views.py changed, reloading.
+django.utils.autoreload  INFO  2024-11-17 14:59:07,786  autoreload 5552  5920  Watching for file changes with StatReloader
+django.request  WARNING  2024-11-17 14:59:09,481  log 5552  3576  Not Found: /
+django.request  WARNING  2024-11-17 14:59:12,546  log 5552  3576  Not Found: /
+django.utils.autoreload  INFO  2024-11-17 15:13:28,535  autoreload 1352  11796  Watching for file changes with StatReloader
+django.request  WARNING  2024-11-17 15:13:30,588  log 1352  1160  Not Found: /
+django.utils.autoreload  INFO  2024-11-17 15:16:57,726  autoreload 1900  1348  Watching for file changes with StatReloader
+django.utils.autoreload  INFO  2024-11-17 15:17:08,106  autoreload 1900  1348  D:\RAYS\Project\django_project_dynamic\SOS\ORS\urls.py changed, reloading.
+django.utils.autoreload  INFO  2024-11-17 15:17:09,350  autoreload 12880  3364  Watching for file changes with StatReloader
+django.utils.autoreload  INFO  2024-11-17 15:17:22,032  autoreload 12880  3364  D:\RAYS\Project\django_project_dynamic\SOS\ORS\urls.py changed, reloading.
+django.utils.autoreload  INFO  2024-11-17 15:17:23,262  autoreload 5564  12048  Watching for file changes with StatReloader
+django.utils.autoreload  INFO  2024-11-17 15:17:55,916  autoreload 8160  8732  Watching for file changes with StatReloader
+django.request  WARNING  2024-11-17 15:19:24,165  log 8160  3856  Not Found: /ORS/edit/1
+django.utils.autoreload  INFO  2024-11-18 14:09:30,663  autoreload 7856  10548  Watching for file changes with StatReloader
+django.request  WARNING  2024-11-18 14:09:33,467  log 7856  9624  Not Found: /favicon.ico
+django.utils.autoreload  INFO  2024-11-18 14:09:56,785  autoreload 10676  10680  Watching for file changes with StatReloader
+django.request  WARNING  2024-11-18 14:18:53,781  log 10676  11384  Not Found: /ORS/login
+django.request  WARNING  2024-11-18 14:19:31,502  log 10676  11384  Not Found: /ORS/edit/1
+django.request  WARNING  2024-11-18 14:19:46,745  log 10676  11384  Not Found: /ORS/delete/1
+django.utils.autoreload  INFO  2024-11-18 14:20:51,415  autoreload 10836  8380  Watching for file changes with StatReloader
+django.utils.autoreload  INFO  2024-11-18 14:23:43,946  autoreload 2300  5812  Watching for file changes with StatReloader
+django.utils.autoreload  INFO  2024-11-22 15:33:04,197  autoreload 5040  3288  Watching for file changes with StatReloader
+django.request  WARNING  2024-11-22 15:33:10,603  log 5040  7264  Not Found: /favicon.ico
+django.utils.autoreload  INFO  2024-11-22 15:35:15,732  autoreload 1896  7748  Watching for file changes with StatReloader
+django.request  WARNING  2024-11-22 15:35:19,705  log 1896  9096  Not Found: /favicon.ico
+django.utils.autoreload  INFO  2024-11-22 15:37:05,398  autoreload 11176  8172  Watching for file changes with StatReloader
+django.request  WARNING  2024-11-22 15:37:11,348  log 11176  11704  Not Found: /favicon.ico
+django.utils.autoreload  INFO  2024-11-22 15:37:48,578  autoreload 1672  11592  Watching for file changes with StatReloader
+django.request  WARNING  2024-11-22 15:37:53,362  log 1672  9356  Not Found: /favicon.ico
+django.utils.autoreload  INFO  2024-11-22 15:38:26,554  autoreload 12812  6772  Watching for file changes with StatReloader
+django.request  WARNING  2024-11-22 15:38:35,103  log 12812  10292  Not Found: /favicon.ico

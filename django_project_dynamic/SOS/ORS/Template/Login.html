@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% include "Header.html" %}
+<form method="POST">
+    {% csrf_token %}
+    <div align="center">
+        <h1>Login</h1>
+        <h3><font color="red">{{ message }}</font> </h3>
+        <table>
+            <tr>
+                <th>User Name:</th>
+                <td><input type="text" name="userName" placeholder="enter your username"></td>
+            </tr>
+             <tr>
+                <th>Password:</th>
+                <td><input type="text" name="password" placeholder="enter your password"></td>
+            </tr>
+            <tr>
+                <th></th>
+                <td><input type="submit" value="signIn"></td>
+                <td> <button><a href="/signup/">signup</a></button></td>
+            </tr>
+        </table>
+    </div>
+</form>
+</body>
+</html>
